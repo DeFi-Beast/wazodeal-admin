@@ -1,0 +1,10 @@
+.admin-details p {
+    color: gray;
+    text-transform: capitalize;
+}
+
+.submit-btn {
+    color: white !important;
+    background-color: rgb(255, 0, 149) !important;
+    border-radius: 5px;
+}
